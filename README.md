@@ -1,5 +1,7 @@
 # CGU Final Project: Android Real-Time Chat Application
 
+![Android_ChatApp_UI](https://github.com/user-attachments/assets/2be65636-ca9c-412c-bf1e-50c533881b33)
+
 ## Overview
 This repository contains a real-time Android messaging application built with **Java** and **Firebase**. The application allows users to create accounts, set up profile pictures, and engage in real-time conversations with other registered users. It also features push notifications for incoming messages and tracks users' online/offline availability.
 
